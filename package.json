@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "grunt": "~0.4.1",
+    "bower": "~1.2.8",
     "express": "3.3.x",
     "knex": "~0.2.4",
     "pg": "~2.4.0",
